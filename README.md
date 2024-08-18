@@ -4,10 +4,8 @@ This solidity program demonstrates the use of smart contract functions which the
 ## Description
 
 This program is a simple solidity contract that contains:
-- `withdraw()` - Allows user to withdraw 1 ETH from the ATM.
-- `deposit()` - Allows user to deposit 1 ETH from the ATM.
-- `getloan()` - Allows user to get some ETH as loan.
-- `payloan()` - Allows user to pay back some/All of the outstanding loan.
+- `addStudentMarks()` - Allows admin to add 1 student entry.
+- `deposit()` - Allows admin to remove 1 entry from the total entries.
  
 ## Getting Started
 
