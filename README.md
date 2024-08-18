@@ -5,7 +5,7 @@ This solidity program demonstrates the use of smart contract functions which the
 
 This program is a simple solidity contract that contains:
 - `addStudentMarks()` - Allows admin to add 1 student entry.
-- `deposit()` - Allows admin to remove 1 entry from the total entries.
+- `removeStudentEntry()` - Allows admin to remove 1 entry from the total entries.
  
 ## Getting Started
 
